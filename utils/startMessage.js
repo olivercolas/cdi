@@ -1,3 +1,5 @@
+'use strict';
+
 const ANSI = require('ansi-art');
 
 module.exports = ANSI.get({
