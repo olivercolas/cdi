@@ -1,6 +1,6 @@
 {
   "name": "@lioloc/cdi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Navigate directories on linux",
   "author": "olivercolas@live.com",
   "main": "bin/index.js",
